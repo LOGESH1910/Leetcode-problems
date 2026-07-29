@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/LOGESH1910/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGESH1910/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/LOGESH1910/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [2418-sort-the-people](https://github.com/LOGESH1910/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/LOGESH1910/Leetcode-problems/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGESH1910/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2418-sort-the-people](https://github.com/LOGESH1910/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/LOGESH1910/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/LOGESH1910/Leetcode-problems/tree/master/2418-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/LOGESH1910/Leetcode-problems/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
