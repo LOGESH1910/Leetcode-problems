@@ -41,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/LOGESH1910/Leetcode-problems/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2418-sort-the-people](https://github.com/LOGESH1910/Leetcode-problems/tree/master/2418-sort-the-people) |
+## Sliding Window
+|  |
+| ------- |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/LOGESH1910/Leetcode-problems/tree/master/1234-replace-the-substring-for-balanced-string) |
 <!---LeetCode Topics End-->
